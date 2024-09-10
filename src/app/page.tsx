@@ -2,6 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
+    /* eslint-disable react/no-unescaped-entities */
     <div className="flex flex-col min-h-screen bg-gray-100 font-sans">
       {/* Header */}
       <header className="bg-blue-800 text-white p-4 md:p-6 sticky top-0 z-10 shadow-md">
