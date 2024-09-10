@@ -92,8 +92,8 @@ export default function Home() {
             <li>Mécanique automobile</li>
             <li>Électromécanique</li>
             <li>Climatisation automobile</li>
-            <li>Utilisation d'outils de diagnostic</li>
-            <li>Esprit d'équipe</li>
+            <li>Utilisation d&apos;outils de diagnostic</li>
+            <li>Esprit d&apos;équipe</li>
             <li>Sens des responsabilités</li>
           </ul>
         </section>
